@@ -1,13 +1,13 @@
 ### ScamGuard: Your Advanced Financial Safety Companion 🤖
  - Developed ScamGuard to act as a digital sentinel, helping users make informed decisions about the safety of messages, links, and online content they encounter.
 
-## Usage
+## Usage ⏳
 To start the app, use:
 ```bash
 streamlit run helping_people.py
 ```
 
-## Key Features  ✨
+## Key Features ✨
 - Multi-Modal Input Processing
 - URL Security Analysis
 - Geolocation Intelligence
@@ -15,6 +15,7 @@ streamlit run helping_people.py
 - Scam Detection
 - Text to Speech, Audio playback
 
+## Screenshots 📷
 <img src="vcc.png" alt="Preview" width="500" height="400" />
 <img src="vc11.png" alt="More" width="500" height="400" />
 
@@ -22,8 +23,8 @@ streamlit run helping_people.py
  - Get your xAI API key from [x.ai](https://x.ai)
  - Map data provided by OpenStreetMap contributors
 
-## Author
+## Author 😇
 - **Author**: Jahid Hasan
 
-## Organized by
+## Organized by 🚩
  - Dr. Wei Zhang, Ivy Hackathon, Ivy College of Business, Iowa State University
