@@ -15,8 +15,15 @@ streamlit run helping_people.py
 - Scam Detection
 - Text to Speech, Audio playback
 
-![Preview](vc.png)
+![Preview](vcc.png)
+![Preview](vc11.png)
 
 ## Configuration ⚙️
  - Get your xAI API key from [x.ai](https://x.ai)
  - Map data provided by OpenStreetMap contributors
+
+## Author
+- **Author**: Jahid Hasan
+
+## Organized by
+ - Dr. Wei Zhang, Ivy Hackathon, Ivy College of Business, Iowa State University
