@@ -16,8 +16,11 @@ streamlit run helping_people.py
 - Text to Speech, Audio playback
 
 ## Screenshots 📷
-<img src="vcc.png" alt="Preview" width="500" height="400" />
-<img src="vc11.png" alt="More" width="500" height="400" />
+<div style="display: flex; gap: 10px;">
+  <img src="vcc.png" alt="Preview" width="400" height="300" />
+  <img src="vc11.png" alt="More" width="400" height="300" />
+</div>
+
 
 ## Configuration ⚙️
  - Get your xAI API key from [x.ai](https://x.ai)
