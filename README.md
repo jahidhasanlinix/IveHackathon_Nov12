@@ -15,8 +15,8 @@ streamlit run helping_people.py
 - Scam Detection
 - Text to Speech, Audio playback
 
-![Preview](vcc.png)
-![Preview](vc11.png)
+<img src="vcc.png" alt="Preview" width="500" height="400" />
+<img src="vc11.png" alt="More" width="500" height="400" />
 
 ## Configuration ⚙️
  - Get your xAI API key from [x.ai](https://x.ai)
